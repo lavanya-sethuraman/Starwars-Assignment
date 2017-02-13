@@ -1,0 +1,34 @@
+
+body .row {
+  margin-bottom: 20px;
+}
+
+img{
+  width:100%;
+}
+img .box{
+  height: 200px;
+  box-sizing: border-box;
+}
+.box{
+  border: 1px solid #eeeeee;
+  text-align: left;
+
+}
+
+header
+{
+  margin-top: -21px;
+  background-color: #FFB752;
+  padding-left: 60px;
+  padding-right: 60px;
+  width:100%;
+  height: 100px;
+}
+h1{
+  margin-left:189px;
+}
+header p{
+  margin-left:189px;
+
+}
